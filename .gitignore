@@ -1,0 +1,17 @@
+# Loại trừ môi trường ảo Python
+.venv_portable/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Loại trừ thư mục đóng gói, bản build và file chạy nặng
+build_portable/
+build/
+dist/
+*.pkg
+*.exe
+*.dll
+*.zip
+*.rar
